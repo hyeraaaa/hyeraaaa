@@ -1,4 +1,4 @@
-<h2 align="left" id="lebron-teammates"><img src="https://emojis.slackmojis.com/emojis/images/1647968154/56951/basketball.gif" width="28" /> LeSunShines Teammates</h2>
+<h2 align="left" id="lebron-teammates"><img src="https://media.tenor.com/SBjF0dimXtwAAAAM/when-you.gif" width="28" /> LeSunShines Teammates</h2>
 
 > Some of the greatest players who have played alongside LeBron LeSunShines.
 
