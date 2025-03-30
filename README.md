@@ -5,7 +5,7 @@
 <table>
   <tr>
       <td align="center" width="96">
-      <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSIMcApYVrzy0BQFkQRWSpffqqMcb5FEQwrIC41GpRPxtFrAn_UxkdPV4DdIQ3D4DEPXbmyiyGQYA7EhHvhkU9RFsBnTSd048-isH4wb8s](https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRM9kibGD-nZ34NKQz7vp97tFvp0XF0AteLNXxzV42z7Pcd-V1gyii1VQ7PfEdNEdfEb6FGo1H-Hm9c-3g" width="48" height="48" alt="Luka Doncic" />
+      <img src="https://cdn.nba.com/headshots/nba/latest/1040x760/1629029.png" width="48" height="48" alt="Luka Doncic" />
       <br>Doncic
     </td>
     <td align="center" width="96">
